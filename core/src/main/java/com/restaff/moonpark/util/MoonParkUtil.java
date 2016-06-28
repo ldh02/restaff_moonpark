@@ -59,7 +59,7 @@ public class MoonParkUtil {
         DateTime inJodaTime = new DateTime(in.getTime());
         DateTime outJodaTime = new DateTime(out.getTime());
 
-        return Minutes.minutesBetween(inJodaTime, outJodaTime).getMinutes() % 60;
+        return Minutes.minutesBetween(inJodaTime, outJodaTime).getMinutes();
     }
 
     public static int getDays(Date in, Date out) throws MoonParkException {

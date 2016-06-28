@@ -5,13 +5,25 @@
 
     <groupId>com.restaff.moonpark</groupId>
     <artifactId>restaff_moonpark</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>pom</packaging>
     <name>RestAff Moon Park</name>
 
     <modules>
         <module>core</module>
+        <module>webservices</module>
     </modules>
     <!-- Additional lines to be added here... -->
 
+    <properties>
+        <java-version>1.7</java-version>
+        <springframework-version>3.1.2.RELEASE</springframework-version>
+        <cxf-version>2.7.15</cxf-version>
+        <junit-version>4.12</junit-version>
+        <swagger-version>1.5.8</swagger-version>
+        <servlet-api-version>2.5</servlet-api-version>
+        <slf4j-version>1.7.21</slf4j-version>
+        <joda-time-version>2.9.4</joda-time-version>
+        <commons-lang3-version>3.4</commons-lang3-version>
+    </properties>
 </project>
