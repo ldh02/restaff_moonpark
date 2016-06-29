@@ -21,7 +21,7 @@
                 <version>2.1</version>
                 <configuration>
                     <warSourceDirectory>target/${project.artifactId}-${project.version}</warSourceDirectory>
-                    <!--<port>8002</port>-->
+                    <port>8002</port>
                     <path>/</path>
                 </configuration>
             </plugin>
@@ -125,6 +125,11 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
+            <version>${slf4j-version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
             <version>${slf4j-version}</version>
         </dependency>
 

@@ -21,7 +21,7 @@
     <!-- set the base path for the swagger application -->
     <init-param>
       <param-name>swagger.api.basepath</param-name>
-      <param-value>http://duchieule.s156.eatj.com/api</param-value>
+      <param-value>http://localhost:8002/api</param-value>
     </init-param>
   </servlet>
 
