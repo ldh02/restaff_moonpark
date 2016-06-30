@@ -11,7 +11,7 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by DHLE on 6/25/2016.
+ * Created by DHLE on 6/29/2016.
  */
 public class MoonParkUtil {
 
@@ -76,7 +76,7 @@ public class MoonParkUtil {
 
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(myDate);
-        int dayOfWeek = calendar.get (Calendar.DAY_OF_WEEK);
+        int dayOfWeek = calendar.get(Calendar.DAY_OF_WEEK);
         boolean isWeekday = ((dayOfWeek >= Calendar.MONDAY) && (dayOfWeek <= Calendar.FRIDAY));
 
         return isWeekday;
@@ -181,7 +181,7 @@ public class MoonParkUtil {
         Collections.reverse(units);
         Map<TimeUnit, Long> result = new LinkedHashMap<TimeUnit, Long>();
         long milliesRest = diffInMillies;
-        for ( TimeUnit unit : units ) {
+        for (TimeUnit unit : units) {
             long diff = unit.convert(milliesRest, TimeUnit.MILLISECONDS);
             long diffInMilliesForUnit = unit.toMillis(diff);
             milliesRest = milliesRest - diffInMilliesForUnit;
@@ -238,7 +238,6 @@ public class MoonParkUtil {
         if (currentTime.getTime() >= startTime.getTime() && currentTime.getTime() <= stopTime.getTime()) {
             return true;
         }
-
 
 
         return false;

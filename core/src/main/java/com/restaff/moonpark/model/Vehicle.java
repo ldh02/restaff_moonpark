@@ -1,7 +1,7 @@
 package com.restaff.moonpark.model;
 
 /**
- * Created by DHLE on 6/25/2016.
+ * Created by DHLE on 6/29/2016.
  */
 public class Vehicle {
     private String palteNumber;

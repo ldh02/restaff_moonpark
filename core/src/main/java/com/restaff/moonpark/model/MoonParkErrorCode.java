@@ -1,7 +1,7 @@
 package com.restaff.moonpark.model;
 
 /**
- * Created by DHLE on 6/26/2016.
+ * Created by DHLE on 6/29/2016.
  */
 public enum MoonParkErrorCode {
     NO_CHECKIN_VALUE(100, "Check-in date is not found"),

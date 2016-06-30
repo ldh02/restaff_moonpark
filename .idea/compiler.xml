@@ -23,11 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="core" />
+        <module name="webservices" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
+    <bytecodeTargetLevel target="1.7">
       <module name="core" target="1.5" />
-      <module name="services" target="1.7" />
+      <module name="restaff_moonpark" target="1.5" />
+      <module name="webservices" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

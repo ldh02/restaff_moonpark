@@ -5,7 +5,6 @@ com/restaff/moonpark/model/MoonParkDate.class
 com/restaff/moonpark/model/ParkZone2.class
 com/restaff/moonpark/model/ParkZone3.class
 com/restaff/moonpark/model/RangeTime.class
-com/restaff/moonpark/model/EndTime.class
 com/restaff/moonpark/model/StayInParkDate.class
 com/restaff/moonpark/model/CheckOutDate.class
 com/restaff/moonpark/model/ParkZone1.class
@@ -13,5 +12,4 @@ com/restaff/moonpark/model/MoonParkException.class
 com/restaff/moonpark/util/MoonParkUtil.class
 com/restaff/moonpark/model/ParkZone.class
 com/restaff/moonpark/model/MoonParkTime.class
-com/restaff/moonpark/model/StartTime.class
 com/restaff/moonpark/model/RangeDate.class

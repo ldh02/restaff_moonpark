@@ -2,31 +2,340 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e2f91c-c55c-439c-812d-2742a83a479c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/surefire-reports/TEST-com.restaff.moonpark.MoonParkUtilTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/surefire-reports/com.restaff.moonpark.MoonParkUtilTest.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/webservices_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/webservices_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_core_1_5_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_jaxrs_1_5_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_m10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_api_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_core_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_extension_providers_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_jetty_2_7_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_javamail_1_4_spec_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_servlet_3_0_spec_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/restaff_moonpark.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webservices/webservices.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/EndTime.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StartTime.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/EndTime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/StartTime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/src/test/scala/ResourceListingIT.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.dockerignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/Dockerfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/css/typography.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/fonts/DroidSans-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/fonts/DroidSans.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/explorer_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/logo_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/pet_store_api.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/throbber.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/images/wordnik_api.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/geo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/translator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lang/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/handlebars-2.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/highlight.9.1.0.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/highlight.9.1.0.pack_extended.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/jquery-1.8.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/jquery.ba-bbq.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/jquery.slideto.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/jquery.wiggle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/js-yaml.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/jsoneditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/lodash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/marked.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/object-assign-pollyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/lib/swagger-oauth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/o2c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/swagger-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/dist/swagger-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/geo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/ko-kr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/translator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lang/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/handlebars-2.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/highlight.9.1.0.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/highlight.9.1.0.pack_extended.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/jquery-1.8.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/jquery.ba-bbq.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/jquery.slideto.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/jquery.wiggle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/js-yaml.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/jsoneditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/lodash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/marked.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/object-assign-pollyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/lib/swagger-oauth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/nginx.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/css/typography.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/fonts/DroidSans-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/fonts/DroidSans.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/explorer_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/logo_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/pet_store_api.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/throbber.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/images/wordnik_api.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/html/o2c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/SwaggerUi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/doc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/helpers/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/utils/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ApiKeyAuthModel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ApiKeyAuthView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/AuthButtonView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/AuthView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/AuthsCollection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/AuthsCollectionView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/BasicAuthModel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/BasicAuthView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ContentTypeView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/HeaderView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/MainView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/Oauth2Model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/Oauth2View.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/OperationView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ParameterContentTypeView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ParameterView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/PopupView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ResourceView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/ResponseContentTypeView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/SignatureView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/StatusCodeView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/javascript/view/partials/signature.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/auth.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/highlight_default.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/reset.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/screen.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/specs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/less/style.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/apikey_auth.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/auth_button.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/auth_button_operation.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/auth_view.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/basic_auth.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/content_type.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/main.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/oauth2.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/operation.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/param.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/param_list.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/param_readonly.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/param_readonly_required.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/param_required.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/parameter_content_type.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/popup.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/resource.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/response_content_type.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/signature.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/src/main/template/status_code.handlebars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/e2e/driver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/e2e/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/e2e/servers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/e2e/v1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/e2e/v2/petstore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/specs/v1.2/petstore/api-docs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/specs/v1.2/petstore/pet.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/specs/v1.2/petstore/store.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/specs/v1.2/petstore/user.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/specs/v2/petstore.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/unit/mock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/swagger-ui-master/test/unit/view/partials/signatureSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/jcl-over-slf4j-1.6.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/jul-to-slf4j-1.6.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/log4j-over-slf4j-1.6.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/slf4j-api-1.6.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/slf4j-simple-1.6.3.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/MoonParkDate.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/MoonParkDate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/MoonParkErrorCode.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/MoonParkErrorCode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/MoonParkTime.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/MoonParkTime.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/ParkZone1.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/ParkZone1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/ParkZone2.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/ParkZone2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/RangeDate.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/RangeDate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/ParkZone3.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/ParkZone3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/RangeTime.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/model/RangeTime.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/util/MoonParkUtil.class" afterPath="$PROJECT_DIR$/core/target/classes/com/restaff/moonpark/util/MoonParkUtil.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/core-1.0.jar" afterPath="$PROJECT_DIR$/core/target/core-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/data/MoonParkData.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/data/MoonParkData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/exception/ApiException.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/exception/ApiException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/exception/BadRequestException.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/exception/BadRequestException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/exception/NotFoundException.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/exception/NotFoundException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/model/ApiResponse.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/model/ApiResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/model/MoonParkPriceResponse.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/model/MoonParkPriceResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/resource/JavaRestResourceUtil.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/resource/JavaRestResourceUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/resource/MoonParkService.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/resource/MoonParkService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/resource/SampleExceptionMapper.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/resource/SampleExceptionMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/util/ApiOriginFilter.class" afterPath="$PROJECT_DIR$/webservices/target/classes/com/restaff/moonpark/util/ApiOriginFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0.war" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/data/MoonParkData.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/data/MoonParkData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/exception/ApiException.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/exception/ApiException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/exception/BadRequestException.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/exception/BadRequestException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/exception/NotFoundException.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/exception/NotFoundException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/model/ApiResponse.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/model/ApiResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/model/MoonParkPriceResponse.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/model/MoonParkPriceResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/resource/JavaRestResourceUtil.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/resource/JavaRestResourceUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/resource/MoonParkService.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/resource/MoonParkService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/resource/SampleExceptionMapper.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/resource/SampleExceptionMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/util/ApiOriginFilter.class" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/com/restaff/moonpark/util/ApiOriginFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/core-1.0.jar" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/lib/core-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/restaff_moonpark.iml" afterPath="$PROJECT_DIR$/.idea/restaff_moonpark.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/core.iml" afterPath="$PROJECT_DIR$/core/core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkErrorCode.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkErrorCode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkException.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone1.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone2.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeDate.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeDate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StayInParkDate.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StayInParkDate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/Vehicle.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/Vehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/util/MoonParkUtil.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/util/MoonParkUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/test/java/com/restaff/moonpark/MoonParkUtilTest.java" afterPath="$PROJECT_DIR$/core/src/test/java/com/restaff/moonpark/MoonParkUtilTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/pom.xml" afterPath="$PROJECT_DIR$/webservices/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/MoonParkData.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/MoonParkData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/ApiException.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/ApiException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/BadRequestException.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/BadRequestException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/NotFoundException.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/NotFoundException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/ApiResponse.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/ApiResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/MoonParkPriceResponse.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/MoonParkPriceResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/JavaRestResourceUtil.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/JavaRestResourceUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/SampleExceptionMapper.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/SampleExceptionMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java" afterPath="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/webservices/src/main/resources/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/webservices/src/main/resources/logback.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webservices/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/webservices/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/webservices/target/classes/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/classes/logback.xml" afterPath="$PROJECT_DIR$/webservices/target/classes/logback.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/webservices/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/logback.xml" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/classes/logback.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservices/target/webservices-1.0/index.html" afterPath="$PROJECT_DIR$/webservices/target/webservices-1.0/index.html" />
     </list>
     <ignored path="restaff_moonpark.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/core/target/" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/services/target/" />
+    <ignored path="$PROJECT_DIR$/webservices/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,71 +353,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MoonParkService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webservices/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckInDate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoonParkDate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1004#1005#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParkZone3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoonParkTime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding>
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeTime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiOriginFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webservices/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/web.xml">
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webservices/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservices/pom.xml">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webservices/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2205">
-              <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,23 +482,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckOutDate.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java" />
-        <option value="$PROJECT_DIR$/core/src/test/java/com/restaff/moonpark/MoonParkUtilTest.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeDate.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone1.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone2.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StartTime.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/EndTime.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/services/PriceService.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/services/MoonParkService.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/dao/MoonParkDao.java" />
-        <option value="$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/vo/PriceResponse.java" />
         <option value="$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/services/MoonParkServiceImpl.java" />
         <option value="$PROJECT_DIR$/services/src/main/webapp/WEB-INF/beans.xml" />
         <option value="$PROJECT_DIR$/services/src/main/webapp/WEB-INF/cxf.xml" />
@@ -158,33 +489,50 @@
         <option value="$PROJECT_DIR$/java-jaxrs-cxf/pom.xml" />
         <option value="$PROJECT_DIR$/services/pom.xml" />
         <option value="$PROJECT_DIR$/core/pom.xml" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/ApiException.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/BadRequestException.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/NotFoundException.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/ApiResponse.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Category.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Order.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Pet.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Tag.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/User.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/JavaRestResourceUtil.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/SampleExceptionMapper.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/PetStoreResource.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/PetResource.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/UserData.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/StoreData.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/PetData.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/UserResource.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/MoonParkPriceResponse.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/util/MoonParkUtil.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/MoonParkData.java" />
-        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java" />
         <option value="$PROJECT_DIR$/webservices/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/webservices/target/webservices-1.0/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/webservices/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/webservices/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/EndTime.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StartTime.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckOutDate.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkErrorCode.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkException.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone1.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone2.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeDate.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StayInParkDate.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/Vehicle.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/util/MoonParkUtil.java" />
+        <option value="$PROJECT_DIR$/core/src/test/java/com/restaff/moonpark/MoonParkUtilTest.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/MoonParkData.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/ApiException.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/BadRequestException.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/NotFoundException.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/ApiResponse.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/MoonParkPriceResponse.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/JavaRestResourceUtil.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/SampleExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java" />
       </list>
     </option>
   </component>
@@ -304,24 +652,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -412,12 +742,18 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="moonpark" />
+              <option name="myItemId" value="restaff_moonpark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaff_moonpark" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,7 +767,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webservices" />
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moonpark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaff_moonpark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaff_moonpark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -451,7 +817,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,7 +831,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webservices" />
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -489,88 +855,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exception" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="restaff_moonpark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -580,7 +864,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -588,8 +872,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.restaff.moonpark.model" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DHLE\workspace\restaff_moonpark\core\src\test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DHLE\workspace\restaff_moonpark\webservices\src\main\java\com\restaff\moonpark\model" />
@@ -599,135 +883,11 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.restaff.moonpark.model" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DHLE\workspace\restaff_moonpark\core\src\test" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.restaff.moonpark.model" />
     </key>
   </component>
   <component name="RunManager" selected="Remote.RESTAFF">
-    <configuration default="false" name="RangeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.restaff.moonpark.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.restaff.moonpark.model.RangeDate" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="core" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MoonParkUtilTest.testGetHoursMinutesInWeekdayWeekend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.restaff.moonpark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="core" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.restaff.moonpark" />
-      <option name="MAIN_CLASS_NAME" value="com.restaff.moonpark.MoonParkUtilTest" />
-      <option name="METHOD_NAME" value="testGetHoursMinutesInWeekdayWeekend" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MoonParkUtilTest.testGetDays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.restaff.moonpark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="core" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.restaff.moonpark" />
-      <option name="MAIN_CLASS_NAME" value="com.restaff.moonpark.MoonParkUtilTest" />
-      <option name="METHOD_NAME" value="testGetDays" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MoonParkUtilTest.testGetPeriod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.restaff.moonpark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="core" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.restaff.moonpark" />
-      <option name="MAIN_CLASS_NAME" value="com.restaff.moonpark.MoonParkUtilTest" />
-      <option name="METHOD_NAME" value="testGetPeriod" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MoonParkUtilTest.testComputeDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.restaff.moonpark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="core" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.restaff.moonpark" />
-      <option name="MAIN_CLASS_NAME" value="com.restaff.moonpark.MoonParkUtilTest" />
-      <option name="METHOD_NAME" value="testComputeDiff" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1142,23 +1302,9 @@
       </RunnerSettings>
       <method />
     </configuration>
-    <list size="6">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Remote.RESTAFF" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RangeDate" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testGetHoursMinutesInWeekdayWeekend" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testGetDays" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testGetPeriod" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testComputeDiff" />
     </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RangeDate" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testComputeDiff" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testGetPeriod" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testGetHoursMinutesInWeekdayWeekend" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MoonParkUtilTest.testGetDays" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1179,7 +1325,7 @@
       <workItem from="1467134444901" duration="8538000" />
       <workItem from="1467169292709" duration="4421000" />
       <workItem from="1467183311155" duration="1662000" />
-      <workItem from="1467270104440" duration="5000" />
+      <workItem from="1467270104440" duration="15082000" />
     </task>
     <servers />
   </component>
@@ -1216,39 +1362,41 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71917000" />
+    <option name="totallyTimeSpent" value="86994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1081" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747602" sideWeight="0.5032841" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258786" sideWeight="0.49671593" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253138" sideWeight="0.49671593" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23959444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23959444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39853558" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1283,8 +1431,14 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1293,102 +1447,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StayInParkDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/restaff/moonpark/MoonParkUtilTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="209" column="7" selection-start-line="195" selection-start-column="4" selection-end-line="209" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/EndTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="54" column="87" selection-start-line="17" selection-start-column="8" selection-end-line="54" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StartTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/services.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/App.java" />
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/dao/MoonParkDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/java/com/restaff/moonpark/vo/PriceResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/webapp/WEB-INF/beans.xml" />
     <entry file="file://$PROJECT_DIR$/services/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -1425,28 +1483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/PetStoreResource.java" />
     <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/PetResource.java" />
     <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Tag.java" />
@@ -1456,102 +1492,10 @@
     <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Pet.java" />
     <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/Category.java" />
     <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/User.java" />
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/MoonParkPriceResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/ApiResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-371">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/ApiException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/JavaRestResourceUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/SampleExceptionMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/NotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/BadRequestException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" column="86" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/util/MoonParkUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="61" column="75" selection-start-line="61" selection-start-column="75" selection-end-line="61" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/MoonParkData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1574,24 +1518,285 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webservices/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2205">
-          <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+        <state relative-caret-position="1800">
+          <caret line="148" column="21" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webservices/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/EndTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="90">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StartTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckOutDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkErrorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/StayInParkDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/util/MoonParkUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/restaff/moonpark/MoonParkUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/data/MoonParkData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/ApiException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/BadRequestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/exception/NotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/model/MoonParkPriceResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/JavaRestResourceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/MoonParkService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/resource/SampleExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/java/com/restaff/moonpark/util/ApiOriginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webservices/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/test/scala/ResourceListingIT.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservices/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/CheckInDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/MoonParkTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/RangeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/restaff/moonpark/model/ParkZone3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1602,10 +1807,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>webservices:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1613,7 +1820,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1648,12 +1855,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>restaff_moonpark</last-edited>
+          <last-edited>core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

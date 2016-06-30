@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by DHLE on 6/26/2016.
+ * Created by DHLE on 6/29/2016.
  */
 public class MoonParkUtilTest {
 
@@ -44,7 +44,7 @@ public class MoonParkUtilTest {
         }
 
         in = new Date();
-        Calendar calendar = new GregorianCalendar(2013,1,28,13,24,56);
+        Calendar calendar = new GregorianCalendar(2013, 1, 28, 13, 24, 56);
         out = calendar.getTime();
         try {
             MoonParkUtil.checkDateRangeValidation(in, out);
@@ -52,9 +52,9 @@ public class MoonParkUtilTest {
             Assert.assertEquals(e.getMoonParkErrorCode().getErrorCode(), MoonParkErrorCode.CHECKOUT_BEFORE_CHECKIN.getErrorCode());
         }
 
-        calendar = new GregorianCalendar(2016,1,27,13,24,56);
+        calendar = new GregorianCalendar(2016, 1, 27, 13, 24, 56);
         in = calendar.getTime();
-        calendar = new GregorianCalendar(2016,1,28,13,24,56);
+        calendar = new GregorianCalendar(2016, 1, 28, 13, 24, 56);
         out = calendar.getTime();
         try {
             MoonParkUtil.checkDateRangeValidation(in, out);
@@ -107,7 +107,7 @@ public class MoonParkUtilTest {
         }
 
         in = new Date();
-        Calendar calendar = new GregorianCalendar(2013,1,28,13,24,56);
+        Calendar calendar = new GregorianCalendar(2013, 1, 28, 13, 24, 56);
         out = calendar.getTime();
         try {
             MoonParkUtil.getHours(in, out);
@@ -115,9 +115,9 @@ public class MoonParkUtilTest {
             Assert.assertEquals(e.getMoonParkErrorCode().getErrorCode(), MoonParkErrorCode.CHECKOUT_BEFORE_CHECKIN.getErrorCode());
         }
 
-        calendar = new GregorianCalendar(2016,1,27,13,24,56);
+        calendar = new GregorianCalendar(2016, 1, 27, 13, 24, 56);
         in = calendar.getTime();
-        calendar = new GregorianCalendar(2016,1,28,13,24,56);
+        calendar = new GregorianCalendar(2016, 1, 28, 13, 24, 56);
         out = calendar.getTime();
         try {
             int hours = MoonParkUtil.getHours(in, out);
@@ -126,9 +126,9 @@ public class MoonParkUtilTest {
             Assert.assertNull(e);
         }
 
-        calendar = new GregorianCalendar(2016,1,28,13,24,56);
+        calendar = new GregorianCalendar(2016, 1, 28, 13, 24, 56);
         in = calendar.getTime();
-        calendar = new GregorianCalendar(2016,1,28,17,24,56);
+        calendar = new GregorianCalendar(2016, 1, 28, 17, 24, 56);
         out = calendar.getTime();
         try {
             int hours = MoonParkUtil.getHours(in, out);
@@ -137,9 +137,9 @@ public class MoonParkUtilTest {
             Assert.assertNull(e);
         }
 
-        calendar = new GregorianCalendar(2016,1,28,17,24,55);
+        calendar = new GregorianCalendar(2016, 1, 28, 17, 24, 55);
         in = calendar.getTime();
-        calendar = new GregorianCalendar(2016,1,28,17,24,56);
+        calendar = new GregorianCalendar(2016, 1, 28, 17, 24, 56);
         out = calendar.getTime();
         try {
             int hours = MoonParkUtil.getHours(in, out);
@@ -148,9 +148,9 @@ public class MoonParkUtilTest {
             Assert.assertNull(e);
         }
 
-        calendar = new GregorianCalendar(2016,1,28,17,24,50);
+        calendar = new GregorianCalendar(2016, 1, 28, 17, 24, 50);
         in = calendar.getTime();
-        calendar = new GregorianCalendar(2016,1,28,17,24,56);
+        calendar = new GregorianCalendar(2016, 1, 28, 17, 24, 56);
         out = calendar.getTime();
         try {
             MoonParkUtil.getHours(in, out);
@@ -162,10 +162,10 @@ public class MoonParkUtilTest {
 
     @Test
     public void testGetDays() {
-        Calendar calendar = new GregorianCalendar(2016,1,25,01,24,50);
+        Calendar calendar = new GregorianCalendar(2016, 1, 25, 01, 24, 50);
         Date in = calendar.getTime();
 
-        calendar = new GregorianCalendar(2016,1,28,01,24,50);
+        calendar = new GregorianCalendar(2016, 1, 28, 01, 24, 50);
         Date out = calendar.getTime();
 
         try {
@@ -179,10 +179,10 @@ public class MoonParkUtilTest {
 
     @Test
     public void testGetHoursMinutesInWeekdayWeekend() {
-        Calendar calendar = new GregorianCalendar(2016,1,26,11,24,50);
+        Calendar calendar = new GregorianCalendar(2016, 1, 26, 11, 24, 50);
         Date in = calendar.getTime();
 
-        calendar = new GregorianCalendar(2016,1,29,17,40,50);
+        calendar = new GregorianCalendar(2016, 1, 29, 17, 40, 50);
         Date out = calendar.getTime();
 
         try {

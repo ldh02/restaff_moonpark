@@ -6,9 +6,9 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Created by DHLE on 6/26/2016.
+ * Created by DHLE on 6/29/2016.
  */
-public abstract class MoonParkDate {
+public class MoonParkDate {
 
     static final long TOTAL_HOURS_IN_DATE = 24;
     static final long TOTAL_MINUTES_IN_DATE = TOTAL_HOURS_IN_DATE * 60;
@@ -27,6 +27,10 @@ public abstract class MoonParkDate {
         this.date = date;
     }
 
+    /**
+     *
+     * @return true if date is not null and false if date is null
+     */
     public boolean isValid() {
         return date != null;
     }
@@ -50,7 +54,7 @@ public abstract class MoonParkDate {
     public boolean isWeekday() {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(date);
-        int dayOfWeek = calendar.get (Calendar.DAY_OF_WEEK);
+        int dayOfWeek = calendar.get(Calendar.DAY_OF_WEEK);
         boolean isWeekday = ((dayOfWeek >= Calendar.MONDAY) && (dayOfWeek <= Calendar.FRIDAY));
 
         return isWeekday;
@@ -59,7 +63,16 @@ public abstract class MoonParkDate {
     public boolean isSunday() {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(date);
-        int dayOfWeek = calendar.get (Calendar.DAY_OF_WEEK);
+        int dayOfWeek = calendar.get(Calendar.DAY_OF_WEEK);
         return dayOfWeek == Calendar.SUNDAY;
     }
+
+    public MoonParkTime getMoonParkTime() {
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(date);
+        int hour = calendar.get(Calendar.HOUR_OF_DAY);
+        int minute = calendar.get(Calendar.MINUTE);
+        return new MoonParkTime(hour, minute);
+    }
+
 }

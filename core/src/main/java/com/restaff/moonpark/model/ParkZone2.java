@@ -3,7 +3,7 @@ package com.restaff.moonpark.model;
 import java.util.List;
 
 /**
- * Created by DHLE on 6/25/2016.
+ * Created by DHLE on 6/29/2016.
  */
 public class ParkZone2 extends ParkZone {
 
@@ -19,18 +19,6 @@ public class ParkZone2 extends ParkZone {
             long totalHoursStayInPark = rangeDate.getTotalHours();
             CheckInDate checkInDate = rangeDate.getCheckInDate();
             return totalHoursStayInPark * (checkInDate.isWeekday() ? PRICE_PER_HOUR_ON_WEEKDAY : PRICE_PER_HOUR_ON_WEEKEND);
-        }
-
-        if (rangeDate.isCheckOutNextCheckInDate()) {
-            CheckInDate checkInDate = rangeDate.getCheckInDate();
-            long totalHoursStayInCheckInDay = checkInDate.getTotalHoursToEndDay();
-            Float totalPriceInCheckInDay = totalHoursStayInCheckInDay * (checkInDate.isWeekday() ? PRICE_PER_HOUR_ON_WEEKDAY : PRICE_PER_HOUR_ON_WEEKEND);
-
-            CheckOutDate checkOutDate = rangeDate.getCheckOutDate();
-            long totalHoursStayInCheckOutDay = checkOutDate.getTotalHoursFromStartDay();
-            Float totalPriceInCheckOutDay = totalHoursStayInCheckOutDay * (checkOutDate.isWeekday() ? PRICE_PER_HOUR_ON_WEEKDAY : PRICE_PER_HOUR_ON_WEEKEND);
-
-            return totalPriceInCheckInDay + totalPriceInCheckOutDay;
         }
 
         CheckInDate checkInDate = rangeDate.getCheckInDate();
