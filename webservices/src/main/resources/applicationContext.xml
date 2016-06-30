@@ -24,7 +24,7 @@
     <bean id="exceptionMapper" class="com.restaff.moonpark.resource.SampleExceptionMapper" />
 
     <!-- Application resources -->
-    <bean id="userResource" class="com.restaff.moonpark.resource.MoonParkService" />
+    <bean id="moonParkService" class="com.restaff.moonpark.resource.MoonParkService" />
 
     <!-- Swagger API listing resource -->
 
@@ -51,7 +51,7 @@
         <property name="address" value="/" />
         <property name="serviceBeans">
             <list>
-                <ref bean="userResource"/>
+                <ref bean="moonParkService"/>
                 <bean class="io.swagger.jaxrs.listing.ApiListingResource"/>
             </list>
         </property>
